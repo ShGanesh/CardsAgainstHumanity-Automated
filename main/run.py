@@ -9,7 +9,7 @@ b.close()
 
 r = random.sample(range(len(l)), 10)
 ch = int(input("\nInsert Number between 1 and 10: "))
-Qu = l[r[ch+1]]
+Qu = l[r[ch-1]]
 
 print("\nBlack Card:\n  ", Qu.replace("whitespace", "_________________"))
 num = Qu.count("whitespace")
