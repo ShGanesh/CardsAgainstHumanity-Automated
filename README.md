@@ -11,3 +11,7 @@ The script shall randomly select phrases from whiteCards.txt and attach them to 
 The person who loses their sh\*t first shall become the new **Card Czar** and continue the cycle.  
 If the current **Card Czar** fails to make anyone laugh they shall start acting like a sentient monkey and then initiate another instance of the game.  
 Additional failiures shall lead to the **Card Czar** accepting different genera, which shall be left to the descretion of other players.
+
+## Installation  
+Download the .py file and the two .txt files and move them into the same directory/folder.  
+Run the .py file.
