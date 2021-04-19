@@ -33,7 +33,7 @@ for i in ans:
 	if num != 0:
 		Qu = Qu.replace("whitespace", i, 1)
 	else:
-		Qu += "\n"+i
+		Qu += "\n    "+i
 print("  ", Qu)
 
 w.close()
