@@ -1,4 +1,4 @@
-# CardsAgainstHumanity-Automated  
+# CardsAgainstHumanity-Automated (basic) 
 An Automated (and slightly modified) version of Cards Against Humanity.  
 
 ## Main  
