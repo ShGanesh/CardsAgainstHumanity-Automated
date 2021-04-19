@@ -44,10 +44,8 @@ def black(j): 	# Select and print BlackCard Statement. Returns BlackCard stateme
 	
 	# Randomization NOW
 	r = tuple(set(random.sample(range(len(l)-1), 10)))
-#	print("r = ", r)
 	print("\t__START_GAME__", i)
 	ch = int(input("\n Choose your BlackCard!\n \tInsert Number between 1 and 10: "))	# Choose one from 10 random black cards
-#	print("CH = ", ch)
 	Qu = l[r[ch-1]] 	# index(index (ch) in tuple r) in list of black cards
 	
 	print(" \n\tYour Black Card:\n \t  ", Qu.replace("whitespace", "_________________"))
