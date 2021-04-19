@@ -2,7 +2,7 @@
 
 import random
 
-b = open("blackCards.txt", "r")
+b = open("blackCards.txt", encoding="utf8")
 s = b.read()
 l = tuple(s.split("\n"))
 b.close()	
@@ -20,7 +20,7 @@ else:
 	n = num
 
 print("\nOpening White Cards...")
-w = open("whiteCards.txt", "r")
+w = open("whiteCards.txt", encoding="utf8")
 s = w.read()
 l = tuple(s.split("\n"))
 
