@@ -2,7 +2,7 @@
 An Automated (and slightly modified) version of Cards Against Humanity.  
 
 ## Main  
-Contains two text files (blackCards.txt and whiteCards.txt) and a main .py file ([play_v1.py](main/play_v1.py), [play_v2](main/play_v2.py)).  
+Main game is supposed to contain two text files (blackCards.txt and whiteCards.txt) and a main .py file ([play_v1.py](main/play_v1.py), [play_v2](main/play_v2.py)) and [play_3](main/play_v3).  
 - Text file [blackCards.txt](main/blackCards.txt) contains questions which initiate an instance of a CAH game.
 - Text file [whiteCards.txt](main/whiteCards.txt) contains ... weird phrases which can be added to questions from the blackCards.txt 
 
