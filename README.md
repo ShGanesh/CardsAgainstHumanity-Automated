@@ -14,5 +14,5 @@ If the current **Card Czar** fails to make anyone laugh they shall start acting 
 Additional failiures shall lead to the **Card Czar** accepting different genera, which shall be left to the descretion of other players.
 
 ## Installation  
-Download the latest .py file and the two .txt files (present in the main folder) and move them into the same directory/folder.  
-Run the .py file.
+Download the latest .py file and the two .txt files (present in the main folder) and move them into the same directory/folder.   
+Run the latest .py file ([this one](main/play_v4.py), currently version 4).
